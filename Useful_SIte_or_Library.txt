@@ -1,0 +1,2 @@
+https://intel.github.io/scikit-learn-intelex/latest/acceleration.html
+(인텔 CPU AI 가속해주는 라이브러리)
